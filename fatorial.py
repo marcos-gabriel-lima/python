@@ -13,4 +13,4 @@ def fatorial(n, show=False):
 
 
 print(fatorial(5, show=True))
-help(fatorial())
+help(fatorial)
