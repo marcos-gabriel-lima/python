@@ -10,9 +10,9 @@ def leiaint(msg):
 
 
 number = leiaint('Informe um número inteiro: ')
-print(f'Divisor(s) da cor veder', end='')
+print(f'Divisor(s) da cor verde', end='')
 sl(2)
-print('e o(s) não divisor(s) da cor vermelha')
+print('e o(s) não divisor(s) da cor vermelha:')
 sl(2)
 for c in range(1, number + 1):
     sl(0.5)
